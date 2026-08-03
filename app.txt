@@ -1,0 +1,24 @@
+﻿App Name: SinkingFund Plus
+Version: 1.0.0
+Platform: Android / iOS
+Category: Personal Finance / Budgeting
+Target Market: Global
+Price Model: Free 3 funds + $4.99/month Pro
+
+Description:
+A budgeting tool built entirely around creating, tracking, and celebrating individual sinking funds — separate savings goals for future known expenses like car repair, vacation, or Christmas gifts.
+
+Key Features:
+- Create unlimited named sinking funds (Car Repair, Holiday, New Laptop, etc.)
+- Set target amount and target date → auto-calculates monthly contribution needed
+- Log contributions manually or link to bank (plaid integration)
+- Visual progress bars and circular fill animations for each fund
+- Confetti celebration when fund reaches goal
+- Withdrawal tracking with optional notes
+- Total savings overview dashboard
+- Monthly contribution reminders
+- Fund categories: Emergency, Annual Bills, Travel, Gifts, Home, Vehicle, Medical
+
+Target Audience: Budget-conscious adults 25-45, Dave Ramsey followers, YNAB users
+Competitors: YNAB, Qapital, Digit (discontinued)
+Unique Value: 100% focused on sinking funds — no full budget complexity
